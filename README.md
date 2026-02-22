@@ -47,3 +47,5 @@ The output delivered to WhatsApp follows this professional structure:
 
 💡 Pro-Tip
 Since this uses a Meta Temporary Access Token, remember to refresh the token every 24 hours in n8n to keep the automation running smoothly!
+
+

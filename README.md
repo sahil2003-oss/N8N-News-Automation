@@ -8,7 +8,7 @@ Real-time Fetching: Uses Google News RSS to get the latest headlines.
 
 AI Summarization: Leverages the llama-3.1-8b-instant model on Groq for concise, 2-line English summaries.
 
-Automated Scheduling: Set to trigger every day at a specific time (e.g., 04:40 PM).
+Automated Scheduling: Set to trigger every day at a specific time (e.g. 07:00 AM).
 
 WhatsApp Delivery: Sends formatted messages using the Meta WhatsApp Business Cloud API.
 

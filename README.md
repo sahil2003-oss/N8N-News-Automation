@@ -49,7 +49,8 @@ The output delivered to WhatsApp follows this professional structure:
 Since this uses a Meta Temporary Access Token, remember to refresh the token every 24 hours in n8n to keep the automation running smoothly!
 
 
-Key Technical Achievements
+Key Technical Achievements:
+
 Format Consistency: Successfully forces the AI to output data using specific emojis (🔴 and 📝) and 100% English text.
 
 Error Handling: Configured to manage API rate limits by switching to optimized models like llama-3.1-8b-instant.
